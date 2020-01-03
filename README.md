@@ -1,2 +1,3 @@
-# aks-talk-slides
-Slides and handout of my Cambridge talk on the AKS primality test (Feb 2019).
+# "The AKS primality test explained"
+
+I gave a talk at the University of Cambridge in Feb 2019, and you can find my slides and handout here.
